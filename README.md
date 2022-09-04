@@ -1,6 +1,6 @@
 # Defect-Detection-in-Solar-Modules-Using-ICA-Basis-Images
 The following repository is a defect detection prediction algorithm for electroluminescence (EL) images of solar cells using independent component analysis (ICA).  
-Run main.py in [code]() to run the Machine Learning Model for classification of images.   
+Run main.py in [code](https://github.com/sage-arts/Defect-Detection-in-Solar-Modules-/tree/main/code) to run the Machine Learning Model for classification of images.   
 
 ## Sample Images   
 ### &nbsp; &nbsp; &nbsp; Defect free Image   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Defective Image   

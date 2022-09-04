@@ -3,7 +3,7 @@ The following repository is a defect detection prediction algorithm for electrol
 Run main.py in [code](https://github.com/sage-arts/Defect-Detection-in-Solar-Modules-/tree/main/code) to run the Machine Learning Model for classification of images.   
 
 ## Sample Images   
-### &nbsp; &nbsp; &nbsp; Defect free Image   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Defective Image   
+### &nbsp; &nbsp; &nbsp; Defect free Cell   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Defective Cell   
 ![alt defect_free](https://github.com/a0n0k0i0t/Defect-Detection-in-Solar-Modules-Using-ICA-Basis-Images/blob/main/images/cell0173.png?raw=true) &nbsp; &nbsp; &nbsp;
 ![alt defective](https://github.com/a0n0k0i0t/Defect-Detection-in-Solar-Modules-Using-ICA-Basis-Images/blob/main/images/cell0277.png?raw=true)
 
